@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+reports/*
+!reports/.gitkeep
+allure-results/
+allure-report/
+test-results/
+.DS_Store
